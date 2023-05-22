@@ -7,7 +7,7 @@ It is a responsive interface to view posts about software development and its to
 Contact emails sent through the application are saved in a database in MongoDB.
 
 In addition, the application was also deployed on Netlify, you can access it through the link:
-- [NextJS Blog]()
+- [NextJS Blog](https://gwollmannblog.netlify.app/)
 
 ## 🛠 Technologies
 
@@ -20,13 +20,13 @@ In addition, the application was also deployed on Netlify, you can access it thr
 First, clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/gwollmann04/NextJSBlog.git
 ```
 
 Then, enter the project folder and install the dependencies with yarn
 
 ```bash
-cd && yarn
+cd NextJSBlog && yarn
 ```
 
 Create an `.env` file in the root of the project based on the `.env-example` file
