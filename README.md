@@ -1,6 +1,6 @@
 ## General information:
 
-Project made using NextJS and MongoDB in order to create a blog.
+Project made during a course using NextJS and MongoDB to create a blog.
 
 It is a responsive interface to view posts about software development and its tools.
 
