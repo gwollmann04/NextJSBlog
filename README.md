@@ -1,6 +1,6 @@
 ## General information:
 
-Project made during a course using NextJS and MongoDB to create a blog.
+Project made during a course using React, NextJS and MongoDB to create a blog.
 
 It is a responsive interface to view posts about software development and its tools.
 
@@ -11,6 +11,7 @@ In addition, the application was also deployed on Netlify, you can access it thr
 
 ## 🛠 Technologies
 
+- [React](https://react.dev/)
 - [Next.JS](https://nextjs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
