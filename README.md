@@ -8,6 +8,7 @@ Contact emails sent through the application are saved in a database in MongoDB.
 
 In addition, the application was also deployed on Netlify, you can access it through the link:
 - [NextJS Blog](https://gwollmannblog.netlify.app/)
+- [Course Link](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
 
 ## 🛠 Technologies
 
